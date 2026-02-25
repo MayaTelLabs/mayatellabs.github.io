@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Univers";
+  src: url("../../font/UniversLTStd-Cn.OTF") format("opentype");
+  src: url("../../font/UniversLTStd-Cn.woff2") format("woff2");
+  font-weight: normal;
+  font-style: condensed;
+}
